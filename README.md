@@ -5,7 +5,9 @@ This repository contains a replica of the Amazon homepage, showcasing frontend w
 Key Features:
 
 HTML Structure: Structured markup following best practices for semantic HTML.
+
 CSS Styling: Styling to replicate Amazon's color scheme, layout, and typography.
+
 Responsive Design: Ensures usability across desktop, tablet, and mobile devices.
 
 How to Use:
